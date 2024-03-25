@@ -16,7 +16,7 @@ Git
 
 ### Installation instruction
 ```
-Git clone https://github.com/sirnoel7/codechallenge1.git
+git clone https://github.com/sirnoel7/codechallenge1.git
 
 ```
 
