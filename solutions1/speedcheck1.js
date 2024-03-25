@@ -1,4 +1,4 @@
- function speedcheck(speed){
+function speedcheck(speed){
    
     if(speed<70){
       return 'Okay';
